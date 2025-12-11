@@ -64,7 +64,7 @@
                 </div>
                 <h4 class="font-semibold text-gray-900 text-xl mb-2 text-center">Bermain Game</h4>
                 <p class="text-gray-600 text-sm text-center leading-relaxed">
-                  Suka bermain membuang waktu dengan bermain game.
+                  Suka bermain game.
                 </p>
               </div>
 
@@ -77,7 +77,7 @@
                 </div>
                 <h4 class="font-semibold text-gray-900 text-xl mb-2 text-center">Tidur</h4>
                 <p class="text-gray-600 text-sm text-center leading-relaxed">
-                  Suka tidur untuk jika tidak beraktivitas.
+                  Suka tidur jika tidak beraktivitas.
                 </p>
               </div>
 
